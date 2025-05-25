@@ -1,0 +1,6 @@
+include LICENSE
+include README.md
+include pyproject.toml
+include BUILDING.md
+include CONTRIBUTE.md
+recursive-include src/onyx_tts *.json
