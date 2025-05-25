@@ -2,13 +2,6 @@
 
 > A high-performance, multilingual text-to-speech system by 0N Labs
 
-![Python Version](https://img.shields.io/badge/python-3.10%20%7C%203.11%20%7C%203.12%20%7C%203.13-blue)
-[![PyPI Release](https://img.shields.io/pypi/v/kokoro-onnx.svg)](https://pypi.org/project/kokoro-onnx/)
-[![Github Model Releases](https://img.shields.io/github/v/release/thewh1teagle/kokoro-onnx)](https://github.com/thewh1teagle/kokoro-onnx/releases)
-[![License](https://img.shields.io/github/license/thewh1teagle/kokoro-onnx)](https://github.com/thewh1teagle/kokoro-onnx/blob/main/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/thewh1teagle/kokoro-onnx?style=social)](https://github.com/thewh1teagle/kokoro-onnx/stargazers)
-[![PyPI Downloads](https://img.shields.io/pypi/dm/kokoro-onnx?style=plastic)](https://pypi.org/project/kokoro-onnx/)
-
 [![ONNX Runtime](https://img.shields.io/badge/ONNX%20Runtime-%E2%89%A51.20.1-blue)](https://github.com/microsoft/onnxruntime)
 ![CPU](https://img.shields.io/badge/CPU-supported-brightgreen)
 ![GPU](https://img.shields.io/badge/GPU-supported-brightgreen)
@@ -17,7 +10,8 @@ A lightweight, efficient Text-to-Speech system built on ONNX Runtime, delivering
 
 🚀 Version 1.0 models are out now! 🎉
 
-<https://github.com/user-attachments/assets/00ca06e8-bbbd-4e08-bfb7-23c0acb10ef9>
+<https://0N-Labs.github.io/example-one.wav>
+<https://0N-Labs.github.io/example-two.wav>
 
 ## Features
 
