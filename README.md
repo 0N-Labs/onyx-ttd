@@ -10,8 +10,9 @@ A lightweight, efficient Text-to-Speech system built on ONNX Runtime, delivering
 
 🚀 Version 1.0 models are out now! 🎉
 
-<https://0N-Labs.github.io/example-one.wav>
-<https://0N-Labs.github.io/example-two.wav>
+<audio controls><source src="https://0N-Labs.github.io/example-one.wav" type="audio/wav"></audio>
+<audio controls><source src="https://0N-Labs.github.io/example-two.wav>" type="audio/wav"></audio>
+
 
 ## Features
 
